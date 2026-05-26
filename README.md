@@ -1,0 +1,2 @@
+# Android-Wear-XR-Glasses-AI-Studio-Project-for-XR-Catalyst-Program
+Migrated the iOS/Apple Watch to Android/Wear via the AI Studio (Preview). Gemini handled the migration perfectly. Added several new features. Features added sharable hikes via text/email, watch simulator to preview hikes, hike cards in View Hikes (Android), new heart rate and altitude change metrics for each mile split and XR Jetpack Libraries.
