@@ -6,7 +6,7 @@ This repository serves as the official structural showcase for the Google/XREAL
 Android XR Developer Catalyst Program review committee. 
 
 ### 📺 Architecture & Simulator Proof Video
-https://youtu.be/o_9N987M8GQ?si=F3P8jgFZPdJrX0ty
+https://youtu.be/lyeBp_691_M?si=U4ytZJfWKNrPEoZN
 
 
 ### 🛠️ Architecture Overview
@@ -21,3 +21,6 @@ To protect proprietary mapping algorithms, the compiled source code is maintaine
 secure, private repository. If you are a Developer Relations representative from Google 
 or XREAL reviewing this Catalyst application, please contact me at acgross144@gmail.com or invite 
 my GitHub handle directly for immediate access to the core repository branches.
+
+May 26th update.
+Implemented screen mirroring for the XR Glasses. The youtube video shows a demo of the current project.
