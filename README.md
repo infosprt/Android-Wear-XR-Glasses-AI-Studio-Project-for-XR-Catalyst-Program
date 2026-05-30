@@ -6,7 +6,7 @@ This repository serves as the official structural showcase for the Google/XREAL
 Android XR Developer Catalyst Program review committee. 
 
 ### 📺 Architecture & Simulator Proof Video
-https://youtu.be/AvANEHC-6qc?si=t_4x48fE3xOqpe7_
+https://youtu.be/AvANEHC-6qc?si=61Nxze50PheCPPyz
 
 
 ### 🛠️ Architecture Overview
