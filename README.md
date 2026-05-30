@@ -6,7 +6,7 @@ This repository serves as the official structural showcase for the Google/XREAL
 Android XR Developer Catalyst Program review committee. 
 
 ### 📺 Architecture & Simulator Proof Video
-https://youtu.be/DXzZi-kgndw?si=Zd4nPT2Nj-ke9w0S
+https://youtu.be/AvANEHC-6qc?si=t_4x48fE3xOqpe7_
 
 
 ### 🛠️ Architecture Overview
@@ -27,3 +27,6 @@ Implemented screen mirroring for the XR Glasses. The youtube video shows a demo 
 
 May 27, 2026 update.
 Completed XR portion to allow for simulated hikes on the Android phone as well as the XR glasses. All app features are present in this version. The demonstration video explains how the app was created.
+
+May 30, 2026 update.
+All features of the App are now implemented and tested in Android Studio Preview.
