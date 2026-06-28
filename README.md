@@ -27,8 +27,8 @@ or XREAL reviewing this Catalyst application, please contact me at acgross144@gm
 my GitHub handle directly for immediate access to the core repository branches.
 
 June 28, 2026 update.
-1. Inclusion of Android AI Dipslay glasses.
-2. User text/audio included as part of the hike. Users can give additional details about a particular spot in the hike as well as an overview of the hike. This textual/audio capability could be automatically created by Google Gemini or via user entered text. In both cases the text is displayed and the audio text to speech is played.
+1. Inclusion of Android AI Display glasses.
+2. User text/audio included as part of the hike. Users can give additional details about a particular spot in the hike as well as an overview of the hike. This textual/audio capability could be automatically created by Google Gemini or via user entered text. In both cases the text is displayed and the audio (text to speech) is played.
 3. A glasses reset capability.
 4. Minor UI changes for useablility. 
 
