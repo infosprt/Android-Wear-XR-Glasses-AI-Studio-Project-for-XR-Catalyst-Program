@@ -1,6 +1,6 @@
 # HikeSim — Android XR Pipeline [Project Aura Integration]
 
-Migrated the iOS/Apple Watch HikeSim app to Android/Wear via the AI Studio (Preview). Gemini handled the migration perfectly. Added several new features. Features added sharable hikes via text/email, watch simulator to preview hikes, hike cards in View Hikes (Android), new heart rate and altitude change metrics for each mile split and XR Jetpack Libraries.
+Migrated the iOS/Apple Watch HikeSim app to Android/Wear via the Android Studio (Quail Preview). Gemini handled the migration perfectly. Added several new features. Features added sharable hikes via text/email, watch simulator to preview hikes, hike cards in View Hikes (Android), new heart rate and altitude change metrics for each mile split and XR Jetpack Libraries.
 
 This repository serves as the official structural showcase for the Google/XREAL 
 Android XR Developer Catalyst Program review committee. 
